@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Lisbon"],
+        "correctOption": "Paris"
+    },
+    {
+        "id": 2,
+        "question": "Who wrote 'Hamlet'?",
+        "options": ["Charles Dickens", "Jane Austen", "William Shakespeare", "Mark Twain"],
+        "correctOption": "William Shakespeare"
+    },
+    {
+        "id": 3,
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "correctOption": "Jupiter"
+    },
+    {
+        "id": 4,
+        "question": "Which element has the chemical symbol 'O'?",
+        "options": ["Oxygen", "Gold", "Silver", "Osmium"],
+        "correctOption": "Oxygen"
+    },
+    {
+        "id": 5,
+        "question": "Who was the first President of the United States?",
+        "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+        "correctOption": "George Washington"
+    },
+    {
+        "id": 6,
+        "question": "Which ocean is the largest?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "correctOption": "Pacific Ocean"
+    },
+    {
+        "id": 7,
+        "question": "In which year did the Titanic sink?",
+        "options": ["1912", "1905", "1915", "1920"],
+        "correctOption": "1912"
+    },
+    {
+        "id": 8,
+        "question": "What is the smallest prime number?",
+        "options": ["0", "1", "2", "3"],
+        "correctOption": "2"
+    },
+    {
+        "id": 9,
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+        "correctOption": "Leonardo da Vinci"
+    },
+    {
+        "id": 10,
+        "question": "What is the boiling point of water?",
+        "options": ["90°C", "100°C", "110°C", "120°C"],
+        "correctOption": "100°C"
+    }
+]
